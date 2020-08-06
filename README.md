@@ -63,7 +63,7 @@ Two other files also need to be referenced `canvastext.js` and `gnuplot_common.j
 Then once the html is displayed on the webserver, in this case using `localhost:8080` (as shown in web_server.py) the plot should be displayed.
 
 
-###DISPLAY PICTURE HERE
+![Image of the plot in html page](https://github.com/FredDodd6/gnuplot-html/blob/master/Example_plot.png)
 
 
 
