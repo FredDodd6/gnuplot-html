@@ -57,7 +57,7 @@ The .js file needs to then be moved into the directory of the html page that wil
 ```
 
 On line 3 of this html file the function foo() is called from the file foo.js which will contain the plotting function named after the file.
-Two other files also need to be referenced `canvastext.js` and `gnuplot_common.js`, aswell as `gnuplot_dashedlines.js` if dashed lines are used in the plot.
+Two other files also need to be referenced `canvastext.js` and `gnuplot_common.js` (these can be located within the gnuplot installation(`/gnuplot/5.4/js`), aswell as `gnuplot_dashedlines.js` if dashed lines are used in the plot.
 
 
 Then once the html is displayed on the webserver, in this case using `localhost:8080` (as shown in web_server.py) the plot should be displayed.
